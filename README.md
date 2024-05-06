@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Express.JS, Laravel**
 
-- 💬 Ask me about **Laravel Back End Development**
+- 💬 We can talk about **Back End Development things**
 
 - 📫 How to reach me **rasyafadhil@gmail.com**
 
